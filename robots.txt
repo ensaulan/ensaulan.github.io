@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ensaulan.github.io/sitemap.html.gz
+Sitemap: https://ensaulan.github.io/app/sitemap.html.gz
+Sitemap: https://ensaulan.github.io/assets/sitemap.html.gz
+Sitemap: https://ensaulan.github.io/css/sitemap.html.gz
+Sitemap: https://ensaulan.github.io/includes/sitemap.html.gz
+Sitemap: https://ensaulan.github.io/item/sitemap.html.gz
+Sitemap: https://ensaulan.github.io/src/sitemap.html.gz
